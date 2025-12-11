@@ -30,8 +30,9 @@ h1 {
 <h1 id="welcome-msg"></h1>
 
 <script>
-const name = localStorage.getItem('username');
-document.getElementById('welcome-msg').textContent = name ? `Hello, ${name}!` : 'Hello!';
+    const name = sessionStorage.getItem('namee');
+    document.getElementById('welcome-msg').textContent = name ? `Hello, ${name}!` : 'Hello!';
 </script>
 </body>
 </html>
+
