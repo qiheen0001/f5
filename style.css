@@ -1,0 +1,33 @@
+html, body {
+    height: 100%;
+    margin: 10;
+    background-image: linear-gradient(rgb(79, 250, 5), rgb(29, 66, 29));
+    display: flex;
+    justify-content: centre;
+    align-items: centre;
+    font-family: 'Times New Roman', Times, serif, sans-serif;
+    color: rgb(0, 0, 0);
+}
+
+#name-box {
+    text-align: centre;
+
+}
+
+input {
+    padding: 10px;
+    font-size: 18px;
+    border-radius: 8px;
+    border: none;
+    outline: none;
+    font-family: 'Times New Roman', Times, serif, sans-serif;
+}
+
+button {
+    padding: 10px 18px;
+    font-size: 18px;
+    border: none;
+    border-radius: 10px;
+    cursor: pointer;
+    font-family: 'Times New Roman', Times, serif, sans-serif;
+}
