@@ -1,0 +1,8 @@
+How we came up with the idea:
+  We brainstormed ideas for how we can fix the planet, and to do that we needed to understand how the planet was "broken". We realised many people are unaware and uneducated about some of Earth's problems, such as water and energy wastage. Hence, we decided to make a website which would help educate people on these issues.
+Problems we faced:
+  We had decided on our topic quite late, only 2 days before the submission date. This caused us to have to rush the project, and we were unable to make it what we wanted it to be.
+How we solved the problem:
+  Instead of having a badly-made project that was supposed to be much better, we lowered our expectations and made something smaller that would fit into our timeframe better, so that we were able to make a small project well.
+Brief description of the project functionalities:
+  There are multiple pages in the website containing tips and guides on how to "fix the planet". Clicking on them then learning will not only allow you to contribute to the planet positively, it will also give you experience points! 
