@@ -51,7 +51,17 @@
     </style>
 </head>
 <body>
-
+<div>
+<p id="random-message"></p>
+<script>
+const messages = [
+    "Pick up 1 piece of trash",
+    "Message someone you haven't checked on in a while",
+    "Stop doomscrolling for 10 minutes",
+]
+    const randomIndex = Math.floor(Math.random() * messages.length);
+document.getElementById("random-message").textContent = messages[randomIndex];
+</div>
     <div class="hero">
         <h1>Welcome, what do you wanna learn today?</h1>
     </div>
@@ -100,6 +110,7 @@
     </script>
 </body>
 </html>
+
 
 
 
